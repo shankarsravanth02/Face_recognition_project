@@ -1,0 +1,6 @@
+1. Run 'face2.py' code on Python virtual environment, as python 3.10 partially supports the module 'cv2'.
+2. After creating virtual environment, Run the file in command prompt with following command 
+    'python face2.py'
+3. After running, 'Encoding Complete' text with appear on output prompt.
+4. Camera will start to scan faces and recognize if faces are found in trained images.
+5. Recognized faces will be stored in 'attendence.csv' file with name and time of recognition.
